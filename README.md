@@ -1,4 +1,5 @@
 ## Hi there 👋
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/eric-williams-000a47341/) 
 
 I'm a second-semester Freshman at **George Mason University** undergoing a **B.S in Cybersecurity Engineering**
 
