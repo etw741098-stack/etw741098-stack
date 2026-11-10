@@ -9,6 +9,7 @@ I'm a second-semester Freshman at **George Mason University** undergoing a **B.S
 
 ### 👨‍💻 Actively working on 
 -Strengthening Python & Linux skills, as well as security-based projects
+
 -Preparation for upcoming CCI Cyber Drone Competition (CSDC 2027; April 3rd)
 
 ### 🌴 Outside of Cybersecurity 
